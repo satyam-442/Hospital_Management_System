@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/drawable/mail_out.xml" value="0.24166666666666667" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/drawable/spinner_arrow.xml" value="0.12708333333333333" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/drawable/spinner_bg.xml" value="0.24166666666666667" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_add_hospital_staff.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_admin_add_hospital.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_admin_add_labs.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_admin_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_admin_view_hospitla.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_admin_view_labs.xml" value="0.21197916666666666" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_doctor_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_doctor_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_doctors_profile_page.xml" value="0.2" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.21197916666666666" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_appointment_view_confirmed.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_appointment_view_rejected.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_appointment_view_requested.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_doctors_profile.xml" value="0.25" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_patient_view_appointment.xml" value="0.25" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_success_add_page.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_view_appointment_request.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_view_doctors_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_view_hospital_profile.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/activity_welcome_screen.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/all_appointment_req.xml" value="0.33" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/all_appointment_req_patient.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/all_doctors_view.xml" value="0.22" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/all_hospital_view.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/all_labs_view.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/bottom_sheet.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/FlutterProjectLeraning/HospitalManagementSystem/app/src/main/res/layout/spinner_bg.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

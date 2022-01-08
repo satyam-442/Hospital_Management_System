@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hospitalmanagementsystem">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HospitalManagementSystem">
+        <activity
+            android:name=".admin.AdminViewLabsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminAddLabsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientAppointmentViewConfirmed"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientAppointmentViewRejected"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientAppointmentViewRequested"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientViewAppointment"
+            android:exported="false" />
+        <activity
+            android:name=".doctors.DoctorsProfilePage"
+            android:exported="false" />
+        <activity
+            android:name=".doctors.ViewAppointmentRequestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientDoctorsProfile"
+            android:exported="false" />
+        <activity
+            android:name=".patient.ViewDoctorsList"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientMain"
+            android:exported="false" />
+        <activity
+            android:name=".doctors.DoctorMain"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AddHospitalStaffActivity"
+            android:exported="false" />
+        <activity
+            android:name=".patient.PatientLogin"
+            android:exported="false" />
+        <activity
+            android:name=".doctors.DoctorLogin"
+            android:exported="false" />
+        <activity
+            android:name=".WelcomeScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".admin.SuccessAddPage"
+            android:exported="false" />
+        <activity
+            android:name=".admin.ViewHospitalProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminViewHospitlaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminAddHospitalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin.AdminMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

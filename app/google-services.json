@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189333149953",
+    "firebase_url": "https://flutter-demo-5e270-default-rtdb.firebaseio.com",
+    "project_id": "flutter-demo-5e270",
+    "storage_bucket": "flutter-demo-5e270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189333149953:android:9e482a6aa41795c3752300",
+        "android_client_info": {
+          "package_name": "com.example.hospitalmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189333149953-af3bqoudus3t77o8oro4f75glumpfl78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-2v7Of1c7LzANmE46EdSkRYlwKtQmic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189333149953-af3bqoudus3t77o8oro4f75glumpfl78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

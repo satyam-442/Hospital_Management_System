@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Hospital Management System</string>
+    <string name="success_auth_message">Doctor added successfully. Above mentioned is Doctor ID mail them before it\'s too late and ask them to Authenticate and generate password</string>
+    <string name="welcome">Welcome to Dr. Care</string>
+    <string name="welcomeAdmin">Welcome Admin!</string>
+    <string name="hi">Hello Everyone!</string>
+    <string name="copy">© 2020 - Sangeero Inc.</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="addTeacher">Add Doctor</string>
+    <string name="staffStatus">Hello there, I am the best and qualified Doctor. I am here to serve you the best service of my Domain. We oath to cure your parasites with our wisdom</string>
+
+    <string-array name="role_array">
+        <item>----</item>
+        <item>Doctor</item>
+        <item>Clerk</item>
+        <item>Nurse</item>
+        <item>Receptionist</item>
+        <item>Wardboy</item>
+        <item>Watchman</item>
+    </string-array>
+
+    <string-array name="specialist">
+        <item>Pediatrician</item>
+        <item>Gynecologist</item>
+        <item>Cardiologist</item>
+        <item>Oncologist</item>
+        <item>Gastroenterologist</item>
+        <item>Pulmonologist</item>
+        <item>Nephrologist</item>
+        <item>Endocrinologist</item>
+        <item>Ophthalmologist</item>
+        <item>Otolaryngologist</item>
+        <item>Dermatologist</item>
+        <item>Psychiatrist</item>
+        <item>Neurologist</item>
+        <item>Radiologist</item>
+        <item>Anesthesiologist</item>
+        <item>Surgeon</item>
+    </string-array>
+
+</resources>
